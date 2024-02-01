@@ -1,7 +1,7 @@
 {
-  "name": "<OPERATOR_NAME>",
-  "website": "<YOUR_WEBSITE>",
-  "description": "<DESCRIPTION>",
-  "logo": "https://www.example.com/logo.png",
-  "twitter": "<YOUR_TWITTER>"
+  "name": "Daminus8",
+  "website": "https://en.wikipedia.org/wiki/H._R._Giger",
+  "description": "Giger Nodes",
+  "logo": "https://d7hftxdivxxvm.cloudfront.net/?quality=80&resize_to=width&src=https%3A%2F%2Fartsy-media-uploads.s3.amazonaws.com%2FP4iFa85DQHJcvDXaH5oePw%252F1976-B-303%2B%2BNecronom%2BIV.jpg&width=910",
+  "twitter": "https://twitter.com/MartinBitcoach"
 }
